@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+}
+.text-bg-light p-3 {
+    margin-top: 20px;
+}
+.registration-form {
+    width: 800px;
+    margin: auto;
+}
